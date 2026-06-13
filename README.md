@@ -113,3 +113,9 @@ python -m pytest -q
 ## Important Disclaimer
 
 PIQ Crossfire is a preparation and self-reflection tool. It is not affiliated with the Indian Armed Forces, AFSB, SSB, or any official selection board. It should not be used as a selection predictor.
+
+<!-- recruiter-review:start -->
+## Review Status
+
+Reviewed for recruiter visibility, setup clarity, and AI/ML positioning on June 13, 2026.
+<!-- recruiter-review:end -->
