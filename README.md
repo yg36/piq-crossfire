@@ -119,3 +119,5 @@ PIQ Crossfire is a preparation and self-reflection tool. It is not affiliated wi
 
 Reviewed for recruiter visibility, setup clarity, and AI/ML positioning on June 13, 2026.
 <!-- recruiter-review:end -->
+
+<!-- repository-refresh: 2026-06-29 | preserved-order-rank: 011/71 -->
