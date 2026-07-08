@@ -121,3 +121,8 @@ Reviewed for recruiter visibility, setup clarity, and AI/ML positioning on June 
 <!-- recruiter-review:end -->
 
 <!-- repository-refresh: 2026-06-29 | preserved-order-rank: 011/71 -->
+
+<!-- github-activity-refresh:start -->
+repo: piq-crossfire
+refreshed_at: 2026-07-08T06:40:45.993Z
+<!-- github-activity-refresh:end -->
